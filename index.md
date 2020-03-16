@@ -13,20 +13,20 @@ Outside of data science, I am an active member of the Super Smash Brothers Melee
 # Projects
 ### C4ADS Arms Exporters
 
-This project involved signing an NDA so there is not a deployed app, BUT one of my colaborators Elliot Gunn published an article on Towards Data Science that I will link [here](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)
+This project involved working with the Center for Advanced Defence Studies to use trade data and a list of known arms exporters to try to predict new companies selling military weapons. One of my colaborators Elliot Gunn published an article on Towards Data Science that I will link [here].(https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)
 
 ### Simpsons Says
 
-Simpsons Says is an endpoint which uses TFIDF vectorization to find a quote from The Simpsons that is similar to user input text.
+Simpsons Says is an endpoint which uses TFIDF vectorization to find a quote from The Simpsons that is similar to user input text. To input text add it to the end of the url. If no text is added a random quote will be returned. In order to get the model small enough to deploy on heroku the vocabulary was reduced to 300 words so results may not be perfect.
 
-Endpoint: https://simpsons-quote-predictor.herokuapp.com/input?input_text=
+Endpoint: https://simpsons-quote-predictor.herokuapp.com/input?input_text=  
 [Github Repo](https://us-energy-generation.herokuapp.com)
 
 
 
 ### US Energy Generation
 
-This is a Plotly Dash app that vizualizes energy data from the ESA showing how much electricity is produced from different sources over the last couple decades
+This is a Plotly Dash app that vizualizes energy data from the ESA to show how much electricity is produced from different sources over the last couple decades in the United States.
 
 [APP](https://us-energy-generation.herokuapp.com)  
 [GitHub Repo](https://github.com/SeanAntosiak/US-Energy-Generation)
