@@ -19,7 +19,8 @@ This project involved working with the Center for Advanced Defence Studies to us
 
 Simpsons Says is an endpoint which uses TFIDF vectorization to find a quote from The Simpsons that is similar to user input text. To input text add it to the end of the url. If no text is added a random quote will be returned. In order to get the model small enough to deploy on heroku the vocabulary was reduced to 300 words so results may not be perfect.
 
-Endpoint: [https://simpsons-quote-predictor.herokuapp.com/input?input_text=](https://simpsons-quote-predictor.herokuapp.com/input?input_text=)  
+Endpoint: [https://simpsons-quote-predictor.herokuapp.com/input?input_text=](https://simpsons-quote-predictor.herokuapp.com/input?input_text=)
+
 [Github Repo](https://us-energy-generation.herokuapp.com)
 
 
