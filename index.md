@@ -30,5 +30,6 @@ Github Repo: https://us-energy-generation.herokuapp.com
 This is a Plotly Dash app that vizualizes energy data from the ESA showing how much electricity is produced from different soures over the last couple decades
 
 [APP](https://us-energy-generation.herokuapp.com)
+
 [GitHub Repo](https://github.com/SeanAntosiak/US-Energy-Generation)
 
