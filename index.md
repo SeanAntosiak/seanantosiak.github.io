@@ -19,15 +19,14 @@ This project involved signing an NDA so there is not a deployed app, BUT one of 
 
 Simpsons Says is an endpoint which uses TFIDF vectorization to find a quote from The Simpsons that is similar to user input text.
 
-Endpoint: 
-
-Github Repo: https://us-energy-generation.herokuapp.com
+Endpoint: https://simpsons-quote-predictor.herokuapp.com/input?input_text=
+[Github Repo](https://us-energy-generation.herokuapp.com)
 
 
 
 ### US Energy Generation
 
-This is a Plotly Dash app that vizualizes energy data from the ESA showing how much electricity is produced from different soures over the last couple decades
+This is a Plotly Dash app that vizualizes energy data from the ESA showing how much electricity is produced from different sources over the last couple decades
 
 [APP](https://us-energy-generation.herokuapp.com)  
 [GitHub Repo](https://github.com/SeanAntosiak/US-Energy-Generation)
