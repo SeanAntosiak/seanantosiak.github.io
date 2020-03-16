@@ -13,7 +13,7 @@ Outside of data science, I am an active member of the Super Smash Brothers Melee
 # Projects
 ### C4ADS Arms Exporters
 
-This project involved working with the Center for Advanced Defence Studies to use trade data and a list of known arms exporters to try to predict new companies selling military weapons. One of my colaborators Elliot Gunn published an article on Towards Data Science that I will link [here].(https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)
+This project involved working with the Center for Advanced Defence Studies to use trade data and a list of known arms exporters to try to predict new companies selling military weapons. One of my colaborators Elliot Gunn published an article on Towards Data Science that I will link [here](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee).
 
 ### Simpsons Says
 
