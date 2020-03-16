@@ -14,3 +14,10 @@ Outside of data science, I am an active member of the Super Smash Brothers Melee
 ### C4ADS Arms Exporters
 
 This project involved signing an NDA so there is not a deployed app, BUT one of my colaborators Elliot Gunn published an article on Towards Data Science that I will link [here](https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0?source=friends_link&sk=b99118751e39eb7edd42a318c40854ee)
+
+### Simpsons Says
+
+
+
+### US Energy Generation
+
