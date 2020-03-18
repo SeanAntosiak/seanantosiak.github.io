@@ -1,1 +1,1 @@
-Change this value every day to maintain an active github: 1
+Change this value every day to maintain an active github: 2
