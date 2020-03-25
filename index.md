@@ -29,7 +29,7 @@ Endpoint: [https://simpsons-quote-predictor.herokuapp.com/input?input_text=](htt
 
 ### US Energy Generation (Personal Project)
 
-This is a Plotly Dash app that vizualizes energy data from the ESA to show how much electricity is produced from different sources over the last couple decades in the United States.
+This is a Plotly Dash app that vizualizes energy data from the ESA to show how much electricity is produced from some of the most used energy sources over the last couple decades in the United States.
 
 [APP](https://us-energy-generation.herokuapp.com)  
 [GitHub Repo](https://github.com/SeanAntosiak/US-Energy-Generation)
