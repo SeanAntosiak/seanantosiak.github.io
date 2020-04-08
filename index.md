@@ -10,7 +10,6 @@ I studied physics at Georgia College and State University where I gained a stron
 
 Outside of data science, I am an active member of the Super Smash Brothers Melee community. In college, I was the president of the Smash club where I ran weekly tournaments and set up a stream to broadcast the matches online. Now, in my free time, I practice, watch, and analyze the game as well as compete in local and regional tournaments.
 
-[My LinkedIn](https://www.linkedin.com/in/seanantosiak/)
 
 # Projects
 ### C4ADS Arms Exporters (Remote internship)
@@ -33,4 +32,11 @@ This is a Plotly Dash app that vizualizes energy data from the ESA to show how m
 
 [APP](https://us-energy-generation.herokuapp.com)  
 [GitHub Repo](https://github.com/SeanAntosiak/US-Energy-Generation)
+
+
+
+# Contact Me
+Phone: 706-982-9627
+Email: seanantosiak@gmail.com
+LinkedIn: https://www.linkedin.com/in/seanantosiak/
 
