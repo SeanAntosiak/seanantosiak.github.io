@@ -40,5 +40,5 @@ Phone: 706-982-9627
 
 Email: seanantosiak@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/seanantosiak/
+LinkedIn: (https://www.linkedin.com/in/seanantosiak/)[https://www.linkedin.com/in/seanantosiak/]
 
