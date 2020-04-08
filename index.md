@@ -37,6 +37,8 @@ This is a Plotly Dash app that vizualizes energy data from the ESA to show how m
 
 # Contact Me
 Phone: 706-982-9627
+
 Email: seanantosiak@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/seanantosiak/
 
